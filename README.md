@@ -32,3 +32,4 @@ New Era University is composed of various organizational units. These units can 
 ---
 
 ## UML Diagram:
+<img width="3486" height="1463" alt="image" src="https://github.com/user-attachments/assets/3a0a3c53-d955-4370-9acb-4f5f36658f32" />
